@@ -1,0 +1,7 @@
+streamlit==1.29.0
+google-generativeai==0.3.2
+requests==2.31.0
+SpeechRecognition==3.10.0
+gTTS==2.4.0
+PyAudio==0.2.14
+python-dotenv==1.0.0
