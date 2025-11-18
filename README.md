@@ -164,11 +164,4 @@ property-assistant/
 - Save favorite properties
 - Email report generation
 
-## License
 
-MIT License - Free to use and modify
-
-## Support
-
-For issues, create a GitHub issue or contact support.
-"""
